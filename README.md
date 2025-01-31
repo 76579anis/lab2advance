@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 In order to create this website i take the help from online Al and my group friends
 Firstly i created the login page which futher link to another page where i add the post thread and comment buttons by clicking on thread button i reach to another page where i can see the comments and like and dislike them. Similiar process i follwed for posts . I can post something then like or dislike it.
 I also applied pictures for different buttons and inserted background picture there.
+https://github.com/76579anis/lab2advance.git
